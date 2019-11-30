@@ -1,0 +1,17 @@
+Dear proffessor:
+               This is Katherine,in the matter of fact that i would 
+               really like to attend the class. Since lots of things happened recently, i would like to sincerely tell you the truth.
+               i got a slight poisoned by carbon monoxide in my apartment since last 2 months. The Freon of the air conditioner in my room has been slightly leak the carbon monoxide 
+               in my room and the Alarm is not working at all. i actually found it myself feel extremely uncomfortable situation such as lethargy,Vomiting at last month. At first, i thought
+               i'm just so exhausted,but after 2 weeks i feel something is wrong with my air conditioner,so i did the test about the Carbon monoxide content. It was excess.
+               For the material, i will catch up by talking with my classmate or maybe tring to ask some help from you if you are available. For right now. i am still dealing with my building
+               supervisor and tring to change to a new apartment. i will not miss any classes anymore and try my best to do my project
+
+               Thank you for you understanding.
+
+
+
+
+#showtooltip Mark of the Wild(Rank 4)
+/cancelform
+/castsequence reset=3/target Thorns(Rank 4),Mark of the Wild(Rank 4)

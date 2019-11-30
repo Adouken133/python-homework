@@ -1,0 +1,80 @@
+inbound losgistic: ????
+
+outbound losistic: ????
+
+replenishment: ??
+
+procurement: ??
+
+cross docking: ????
+
+interchange: ??
+
+infrastructure: ????
+
+headquarter: ??
+
+intermediate: ???
+
+fulfillment: ??
+
+simlations:??,??
+
+assortment:??
+
+drilling: ??
+
+innovation:??
+
+stakeholders: ?????
+
+core capabilities: ????
+
+viable: ???
+
+Sustainable:?????
+
+embeds: ??
+
+instantiated: ???
+
+normalize data:?????
+
+Fitting on data:????
+
+estimator: ???
+
+relatively: ??
+
+telescope: ???
+
+discrete: ???
+
+astronomy: ???
+
+predominant class: ????
+
+assign:??
+
+polynomial: ???
+
+compatible: ??
+
+acquisition:??
+
+virtually: ???
+
+cumbersome: ???
+
+persisted:??
+
+Flask: 
+
+
+HEY sir, i just have a simple question about confusion matrix.
+As we can see in this image. Negative has 998 and positive has 1
+
+
+Hi, profossor, i did my work and pin it on the wall, Sorry that i miss the 
+communication with you toaday. i was trying to do the wood at that time, but meanwhile i fall asleep.. here is my work.
+really sorry about it. i m just too tired

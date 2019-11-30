@@ -1,0 +1,10 @@
+Adventure
+Fighting 
+Misc
+Puzzle
+Racing
+Role-playing
+Shotter
+Simulation 
+Sports
+Strategy

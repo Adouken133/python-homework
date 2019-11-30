@@ -1,0 +1,10 @@
+import pandas as pd
+import numpy as np
+
+np.warnings.filterwarnings('ignore')
+
+vgsale = pd.read_csv('vgsales.csv')
+
+# Encoding categorical variables using dummy variables
+encoded_Genre = pd.get_dummies(vgsale['Genre'], drop_first=True)
+encoded_Platform = pd.get_dummies(vgsale['Platform'], drop_first=True)
